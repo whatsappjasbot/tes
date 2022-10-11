@@ -167,7 +167,7 @@ function Resetlimit(){
   return true
 }
 function senderrorlog(RssDev, log){
-  const sentMsg = await RssDev.sendMessage('6285748411847@s.whatsapp.net', log);
+  const sentMsg = RssDev.sendMessage('6285748411847@s.whatsapp.net', log);
 }
 
 
