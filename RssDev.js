@@ -1234,7 +1234,9 @@ Peringatan Grup ${jumlah}/3
             db.read()
             db.data.users[m.quoted.sender].warn += 1
             db.write()
-            await RssDev.sendMessage(m.chat, `Kamu Mendapatkan Peringatan ${db.data.users[m.quoted.sender].warn}/3. Jika Mencapai 3 maka kami akan di ban dan di kick`, { quoted: m.quoted })
+            db.read()
+            totalwarn2 = db.data.users[m.quoted.sender].warn
+            await RssDev.sendMessage(m.chat, `Kamu Mendapatkan Peringatan ${totalwarn2}/3. Jika Mencapai 3 maka kami akan di ban dan di kick`)
           }
       }
       break
