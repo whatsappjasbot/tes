@@ -1,0 +1,193 @@
+{
+  "chats": {
+    "120363045262249770@g.us": {
+      "antilink": false,
+      "mute": false,
+      "vip": false,
+      "autodelete": false,
+      "warn": 0,
+      "totalmsg": 49,
+      "welcome": false,
+      "welcome_text": "Semoga Betah",
+      "asupan": false
+    },
+    "120363023680340300@g.us": {
+      "antilink": false,
+      "mute": false,
+      "vip": false,
+      "autodelete": false,
+      "warn": 0,
+      "totalmsg": 20,
+      "welcome": true,
+      "welcome_text": "Semoga Betah",
+      "asupan": false
+    },
+    "628812817334-1598323639@g.us": {
+      "antilink": false,
+      "mute": false,
+      "vip": false,
+      "autodelete": false,
+      "warn": 0,
+      "totalmsg": 38,
+      "welcome": false,
+      "welcome_text": "Semoga Betah",
+      "asupan": false
+    }
+  },
+  "users": {
+    "6285215511208@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 6,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6285748411847@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 43,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": "Gabut"
+    },
+    "6288279251174@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 17,
+      "aktifgrup": 33,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": "Gabut"
+    },
+    "628816551349@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 2,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6281357396914@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 7,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6283840780533@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 3,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6281334827709@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 3,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6289515244774@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 7,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6285601332136@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 6,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6282134580805@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 3,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6283874480109@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 1,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6285754491415@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 1,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6288238072895@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 20,
+      "aktifgrup": 1,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    },
+    "6281944872176@s.whatsapp.net": {
+      "ban": false,
+      "moderator": false,
+      "vip": false,
+      "limit": 19,
+      "aktifgrup": 1,
+      "nama": "",
+      "verif": false,
+      "afk": -1,
+      "afkR": ""
+    }
+  }
+}
