@@ -88,7 +88,7 @@ global.wm2 = 'RssDev-P'
 global.wm3 = '⫹⫺  Bot-MD'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
-global.titlebot = '🎋 ┊ 𝗥𝗣𝗚 ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = 'Website'
 global.author = global.wm
 global.logo = 'https://ibb.co/17RY7x9'
 
@@ -321,7 +321,7 @@ global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 global.djson = 'application/json'
 
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.thumbdoc = 'https://telegra.ph/file/bb15973e70d21b5931e84.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -352,7 +352,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\nO\nS\nC\nR\nO\nF\C-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = 'Setiker ini di buat oleh Botn/Whatsapp Bot wa.me/6281357396914'
 global.packname = ''
 global.packname2 = 'Setiker ini di buat oleh Botn/Whatsapp Bot wa.me/6281357396914'
 
