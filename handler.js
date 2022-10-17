@@ -689,15 +689,8 @@ export async function participantsUpdate({ id, participants, action }) {
                                 groupname: await this.getName(id),
                                 membercount: groupMetadata.participants.length
                             })
-    conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'ImOscar', fkontak, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ",
-    mediaType: 2, 
-    description: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ", 
-    title: 'Oscar-MultiDevice',
-    body: wm,
-    thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
-    sourceUrl: sgc
-     }}
+    //conn.sendButtonDoc(id, text, wm, action == 'add' ? 'ᴡᴇʟᴄᴏᴍᴇ' : 'sᴀʏᴏɴᴀʀᴀᴀ', action === 'add' ? '.intro' : 'ImOscar', '6280090', { contextInfo: { externalAdReply: { showAdAttribution: true,mediaUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ",mediaType: 2, description: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ", title: 'Oscar-MultiDevice',body: wm,thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),sourceUrl: sgc
+   //  }}
   })
                     }
                 }
