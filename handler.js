@@ -693,7 +693,7 @@ export async function participantsUpdate({ id, participants, action }) {
     mediaUrl: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ",
     mediaType: 2, 
     description: "https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ", 
-    title: 'Oscar-MultiDevice',
+    title: 'Bot Whatsapp',
     body: wm,
     thumbnail: await(await fetch(action === 'add' ? wel : lea)).buffer(),
     sourceUrl: sgc
