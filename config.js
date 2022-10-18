@@ -29,12 +29,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/rssdevoloper_org' //Link Instagrammu
+global.sig = 'https://chat.whatsapp.com/FvH5cGhzOGaFs8OC15bu68' //Link Instagrammu
 global.sgh = 'https://github.com/' //Link Githubmu
 global.sgc = 'https://chat.whatsapp.com/FvH5cGhzOGaFs8OC15bu68'
 global.sdc = '_'
-global.stg = 'rssdevoloper_org'
-global.syt = 'https://youtube.com' //Isi Pake Link Discordmu Kalo Gada Biarin aja
+global.stg = 'https://chat.whatsapp.com/FvH5cGhzOGaFs8OC15bu68'
+global.syt = 'https://chat.whatsapp.com/FvH5cGhzOGaFs8OC15bu68' //Isi Pake Link Discordmu Kalo Gada Biarin aja
 global.snh = 'https://mchosting.my.id🗿' //Hmmm, Ini boleh kalian isi terserah :v
 
 /*============== PAYMENT ==============*/
@@ -89,7 +89,7 @@ global.wm3 = '⫹⫺  Bot-MD'
 global.botdate = `⫹⫺ 𝗛𝗮𝗿𝗶: ${week} ${date}`
 global.bottime = `𝗪𝗮𝗸𝘁𝘂 : ${wktuwib}`
 global.titlebot = 'Website'
-global.author = global.wm
+global.author = "Riruru"
 global.logo = 'https://ibb.co/17RY7x9'
 
 
