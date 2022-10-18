@@ -12,7 +12,7 @@ let handler = async(m, { conn, args, isPrems, isOwner }) => {
     try { _thumb = { thumbnail: await (await fetch(thumb)).buffer() } } catch (e) {}
     m.reply(wait)
     if (!isLimit) await conn.sendButtonVid(m.chat, dl_link, `*Title:* ${title}\n*Filesize:* ${filesizeF}`.trim(), wm, 'menu', '.?', m)
-	//await conn.sendMessage(m.chat, { document: { url: dl_link }, mimetype: 'video/mp4', fileName: title + `.mp4`}, {quoted: m})
+	await conn.sendMessage(m.chat, { document: { url: dl_link }, mimetype: 'video/mp4', fileName: title + `.mp4`}, {quoted: m})
 //conn.sendFile(m.chat, dl_link, title + '.mp4', `
 //*Title:* ${title}
 //*Filesize:* ${filesizeF}
@@ -20,6 +20,6 @@ let handler = async(m, { conn, args, isPrems, isOwner }) => {
 }
 handler.help = ['ytmp4 <query>']
 handler.tags = ['downloader']
-handler.command = /^yt(v(idi?e?o)?|mp4)?$/i
+handler.command = /^ytmp4)?$/i
 
 export default andler
