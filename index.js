@@ -42,10 +42,6 @@ function start(file) {
       case 'uptime':
         p.send(process.uptime())
         break
-      case 'exit':
-        p.process.kill()
-        isRunning = false
-        break
     }
   })
   p.on('exit', (_, code) => {

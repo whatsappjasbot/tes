@@ -1,7 +1,7 @@
 {
   "users": {
     "6285748411847@s.whatsapp.net": {
-      "exp": 146,
+      "exp": 152,
       "limit": 10,
       "lastclaim": 0,
       "registered": false,
@@ -1541,10 +1541,10 @@
       "total": 2
     },
     "menu.js": {
-      "last": 1666046453337,
-      "lastSuccess": 1666046453337,
-      "success": 41,
-      "total": 42
+      "last": 1666057040241,
+      "lastSuccess": 1666057040241,
+      "success": 42,
+      "total": 43
     },
     "owner-addprem.js": {
       "last": 1664175492203,
