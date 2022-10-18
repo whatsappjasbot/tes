@@ -1,2 +1,2 @@
-worker: npm start --server
-web: npm start --server
+worker: node . --server session
+web: node . --server session
